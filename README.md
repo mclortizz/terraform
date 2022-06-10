@@ -4,7 +4,9 @@ Terraform repository
 Script para criar uma instância EC2 e montar um volume EFS
 
 >> [Main](https://github.com/mclsylva/terraform#:~:text=1%20minute%20ago-,main.tf,-Add%20files%20via)
+>> 
 >> [Variables](https://github.com/mclsylva/terraform/blob/main/variables.tf)
+>> 
 >> [Variables Values](https://github.com/mclsylva/terraform#:~:text=1%20minute%20ago-,terraform.tfvars,-Add%20files%20via)
 
 [video com o passo a passo]()
