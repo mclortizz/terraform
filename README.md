@@ -9,7 +9,7 @@ Script para criar uma instância EC2 e montar um volume EFS
 >> 
 >> [Variables Values](https://github.com/mclsylva/terraform#:~:text=1%20minute%20ago-,terraform.tfvars,-Add%20files%20via)
 >>
->>[Vídeo com o Passo a Passo]()
+>>[Vídeo com o Passo a Passo](https://youtu.be/sur-IuFpD0A)
 
 Comandos:
 1) terraform init
