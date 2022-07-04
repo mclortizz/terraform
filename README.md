@@ -1,7 +1,7 @@
 # terraform
 Terraform repository
 
-Script para criar uma instância EC2 e montar um volume EFS
+1) Script para criar uma instância EC2 e montar um volume EFS
 
 >> [Main](https://github.com/mclsylva/terraform#:~:text=1%20minute%20ago-,main.tf,-Add%20files%20via)
 >> 
@@ -16,4 +16,9 @@ Comandos:
 2) terraform plan
 3) terraform apply --auto-approve
 4) terraform destroy --auto-approve (para remover a instância que foi criada pelo comando 3)
+
+2) Script para criar e manipular um bucket S3
+>> [Main](https://github.com/mclsylva/terraform/tree/main#:~:text=1%20minute%20ago-,main.tf_s3,-Create%20main.tf_s3)
+Criar - Setar Permissão (ACL) - Habilitar Versionamento - Habilitar Criptografia
+
 
